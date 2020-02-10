@@ -2,7 +2,6 @@ import React from 'react';
 import {View, Text, StyleSheet} from 'react-native';
 
 const BoxScreen = () =>{
-
     return <View style = {styles.viewStyle}>
         <Text style = {styles.textStyle}>Hello World</Text>
         <Text style = {styles.textStyle}>Hello World</Text>
